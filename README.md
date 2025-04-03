@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@code-with-eli/30-nites-of-code)  
+  ![@code-with-eli #30NitesOfCode](https://www.codedex.io/api/petStatus?user=code-with-eli)
